@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wangcheolhwan/github.io/React-practice1/static/css/main.46db7fd9.css",
-    "main.js": "/wangcheolhwan/github.io/React-practice1/static/js/main.40595f14.js",
-    "static/js/453.84fb741e.chunk.js": "/wangcheolhwan/github.io/React-practice1/static/js/453.84fb741e.chunk.js",
-    "index.html": "/wangcheolhwan/github.io/React-practice1/index.html",
-    "main.46db7fd9.css.map": "/wangcheolhwan/github.io/React-practice1/static/css/main.46db7fd9.css.map",
-    "main.40595f14.js.map": "/wangcheolhwan/github.io/React-practice1/static/js/main.40595f14.js.map",
-    "453.84fb741e.chunk.js.map": "/wangcheolhwan/github.io/React-practice1/static/js/453.84fb741e.chunk.js.map"
+    "main.css": "/wangcheolhwan.github.io/React-practice1/static/css/main.46db7fd9.css",
+    "main.js": "/wangcheolhwan.github.io/React-practice1/static/js/main.a89db4c9.js",
+    "static/js/453.84fb741e.chunk.js": "/wangcheolhwan.github.io/React-practice1/static/js/453.84fb741e.chunk.js",
+    "index.html": "/wangcheolhwan.github.io/React-practice1/index.html",
+    "main.46db7fd9.css.map": "/wangcheolhwan.github.io/React-practice1/static/css/main.46db7fd9.css.map",
+    "main.a89db4c9.js.map": "/wangcheolhwan.github.io/React-practice1/static/js/main.a89db4c9.js.map",
+    "453.84fb741e.chunk.js.map": "/wangcheolhwan.github.io/React-practice1/static/js/453.84fb741e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46db7fd9.css",
-    "static/js/main.40595f14.js"
+    "static/js/main.a89db4c9.js"
   ]
 }
