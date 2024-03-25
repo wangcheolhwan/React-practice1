@@ -68,13 +68,15 @@ function App() {
   }
 
   return (
-    <div className="game">
-      <div className="game-board">
-        <Board squares={current.squares} onClick={(i) => handleClick(i)} />
-      </div>
-      <div className="game-info">
-        <div className="status">{status}</div>
-        <ol style={{listStyle: 'none'}}>{moves}</ol>
+    <div>
+      <div className="game">
+        <div className="game-board">
+          <Board squares={current.squares} onClick={(i) => handleClick(i)} />
+        </div>
+        <div className="game-info">
+          <div className="status">{status}</div>
+          <ol style={{listStyle: 'none'}}>{moves}</ol>
+        </div>
       </div>
     </div>
   );
